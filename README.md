@@ -1,1 +1,1 @@
-# pandasai_kp
+using the pandasai & llm creating automatic charts
